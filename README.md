@@ -1,6 +1,7 @@
 <img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/0tMEVz3MTzsAAAAC/lego-batman-falls-in-love.gif">
   # 💫 About Me:
 🌱 Learning Programming and Data Science<br>📫 Reach me: jaymekyerivan@gmail.com<br>⚡Facts:  🏃 Running, 🎮Gaming, 📷Video Editing, 🏸Badminton<br>
+<br>
 
 Im currently Studying Bachelor of Science in Information Technology in the University of San Carlos. Hopefully i will survive D:
 
