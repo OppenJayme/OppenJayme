@@ -2,6 +2,8 @@
   # 💫 About Me:
 🌱 Learning Programming and Data Science<br>📫 Reach me: jaymekyerivan@gmail.com<br>⚡Facts:  🏃 Running, 🎮Gaming, 📷Video Editing, 🏸Badminton<br>
 
+Im currently Studying Bachelor of Science in Information Technology in the University of San Carlos. Hopefully i will survive D:
+
 
 # 💻 Tech Stack:
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
