@@ -3,7 +3,7 @@
 🌱 Learning Programming and Data Science<br>📫 Reach me: jaymekyerivan@gmail.com<br>⚡Facts:  🏃 Running, 🎮Gaming, 📷Video Editing, 🏸Badminton<br>
 <br>
 
-Im currently Studying Bachelor of Science in Information Technology in the University of San Carlos. Hopefully i will survive D:
+A 2nd Year Information Technology in University of San Carlos
 
 
 # 💻 Tech Stack:
